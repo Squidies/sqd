@@ -82,6 +82,9 @@ h5, h6 {
   color: var(--bg);
 }
 
+.section .blurb p {
+  margin-top: 8rem;
+}
 
 @keyframes slideDown {
   0% {
