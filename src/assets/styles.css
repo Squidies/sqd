@@ -78,12 +78,23 @@ h5, h6 {
 
 .section {
   position: relative;
-  background: var(--text);
-  color: var(--bg);
 }
 
 .section .blurb p {
   margin-top: 8rem;
+}
+
+.projects {
+  margin-top: 20vh;
+}
+
+.contact a {
+  display: block;
+  text-align: center;
+}
+
+.footer {
+  padding: 5vh 0;
 }
 
 @keyframes slideDown {
